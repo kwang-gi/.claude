@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Explore repository structure and identify project type",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Check for existing CLAUDE.md file",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "Analyze build/test/development commands",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "Understand high-level architecture",
+    "status": "completed",
+    "id": "4"
+  },
+  {
+    "content": "Check for existing rules/instructions files",
+    "status": "completed",
+    "id": "5"
+  },
+  {
+    "content": "Create CLAUDE.md file",
+    "status": "in_progress",
+    "id": "6"
+  }
+]

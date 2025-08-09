@@ -1,0 +1,22 @@
+[
+  {
+    "content": "클로드 데스크탑 설정 파일 확인",
+    "status": "completed",
+    "id": "1"
+  },
+  {
+    "content": "Playwright Stealth MCP 설정 추출",
+    "status": "completed",
+    "id": "2"
+  },
+  {
+    "content": "클로드 코드 설정 파일에 MCP 추가",
+    "status": "completed",
+    "id": "3"
+  },
+  {
+    "content": "디버그 모드로 작동 확인",
+    "status": "completed",
+    "id": "4"
+  }
+]

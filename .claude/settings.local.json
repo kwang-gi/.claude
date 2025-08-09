@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(claude --usage)",
+      "Bash(claude --debug)",
+      "Bash(claude mcp:*)",
+      "WebFetch(domain:github.com)",
+      "Bash(claude --version)",
+      "Bash(where claude)",
+      "Bash(echo $OS)",
+      "Bash(echo $OSTYPE)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(wsl:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_screenshot",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)",
+      "Bash(pip install:*)",
+      "Bash(claude-token-monitor)",
+      "Bash(python:*)",
+      "Bash(grep:*)",
+      "Bash(findstr:*)"
+    ],
+    "deny": []
+  }
+}
