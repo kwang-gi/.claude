@@ -230,3 +230,9 @@ python C:\Users\b\.claude\token_checker.py
 - `claude mcp list` - 설치된 MCP 서버 목록 확인
 - `claude --debug` - 디버그 모드 실행  
 - `claude --usage` - 토큰 사용량 확인
+
+## 스크린샷
+
+![VS Code 소스제어 패널](./images/vscode-source-control.png)
+
+*클립보드에서 복사한 이미지는 위의 경로에 저장하고 이렇게 삽입하세요*

@@ -20,7 +20,8 @@
       "Bash(claude-token-monitor)",
       "Bash(python:*)",
       "Bash(grep:*)",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }
